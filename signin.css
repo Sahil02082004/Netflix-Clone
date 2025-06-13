@@ -1,0 +1,110 @@
+/* General Reset */
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+/* Main Content */
+.content {
+    height: 700px;
+    width: 100%;
+    background-image: url("Untitled design.png");
+    background-size: cover;
+}
+
+/* Navigation Logo */
+.nav {
+    height: 100px;
+    width: 100%;
+}
+
+.logo {
+    background-image: url("Netflix logo2.png");
+    height: 100px;
+    width: 300px;
+    background-size: 160px;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: absolute;
+
+
+}
+
+/* Docs Container */
+.docs {
+    height: 550px; /* Adjust height */
+    width: 450px;
+    margin-left: 400px;
+    background: #000000B3;
+    padding: 48px 68px;
+    box-sizing: border-box;
+}
+
+/* Sign-in Title */
+.sign {
+    color: white;
+}
+
+/* Input Fields */
+.Email, .pass {
+    margin-top: 30px;
+    color: white;
+    height: 55px;
+    width: 288px;
+    background: #000000B3;
+    font-size: 15px;
+    padding-left: 15px;
+    border-radius: 0.2rem;
+    border: 1px solid #333;
+}
+
+/* Sign-in Button */
+.button {
+    height: 55px;
+    width: 310px;
+    background-color: red;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    margin-top: 40px;
+    border-radius: 0.2rem;
+    border: none;
+    cursor: pointer;
+}
+
+/* Forgot Password Link */
+.forgot {
+    margin-left: 85px;
+    margin-top: 40px;
+}
+
+/* Button2 Container and Styling */
+.button-container {
+    margin-top: 20px; /* Space between form and button */
+    text-align: center; /* Center align */
+}
+
+.button2 {
+    height: 55px;
+    width: 310px;
+    background-color: red;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    border-radius: 0.2rem;
+    border: none;
+    cursor: pointer;
+}
+.para{
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.anchor{
+    color: white;
+    text-decoration: none;
+}

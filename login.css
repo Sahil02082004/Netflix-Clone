@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.content{
+    height: 700px;
+    width: 100%;
+    background-image: url("Untitled\ design.png");
+    background: cover;
+}
+.nav{
+    height: 100px;
+    width: 100%;
+}
+.logo{
+    background-image: url("Netflix\ logo2.png");
+    height: 100px;
+    width: 300px;
+    background: cover;
+    align-items: center;
+    justify-content: center;
+    background-size: 160px;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    display: flex;
+}
+.docs{
+    height:390px;
+    width: 314px;
+    margin-left: 400px;
+    background: #000000B3;
+    padding:48px 68px ;
+}
+
+.sign{
+    color: white;
+}
+.Email{
+    margin-top: 30px;
+    color: white;
+    height: 55px;
+    width: 288px;
+    display: flex;
+    background: #000000B3;
+    font-size: 15px;
+    padding-left: 15px;
+    border-radius: 0.2rem
+    
+}
+.pass{
+    margin-top: 40px;
+    height: 55px;
+    width: 288px;
+    background: #000000B3;
+    padding-left: 15px;
+    font-size: 15px;
+    border-radius: 0.2rem;
+    color: white;
+}
+.button{
+    height: 55px;
+    width: 310px;
+    background: #000000B3;
+    font-size: 17px;
+    font-weight: 200px;
+    color: white;
+    background-color: red;
+    margin-top: 40px;
+    border-radius: 0.2rem;
+
+}
+.forgot{
+    margin-left: 85px;
+    margin-top: 40px;
+}
+.button2{
+    height: 55px;
+    width: 310px;
+    background: #000000B3;
+    font-size: 17px;
+    font-weight: 200px;
+    color: white;
+    background-color: red;
+    margin-top: 40px;
+    border-radius: 0.2rem;
+}
+.para1{
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.anchor1{
+    color: white;
+    text-decoration: none;
+}

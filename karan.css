@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.user{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+}
+.name{
+    margin-left: 1080px;
+    color: white;
+    font-size: 20px;
+    padding-top: 6px;
+}
+.logout{
+    margin-left: 1100px;
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    margin-top: 5px;
+}
+.main{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.section{
+    height: 600px;
+    width: 60px;
+    background-color:black;
+    position: fixed;
+    color: white;
+}
+.icon1{
+    padding-top: 150px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 13px;
+}
+.icon1:hover{
+    color: red;
+}
+.icon2{
+    padding-top: 35px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 13px;
+}
+.icon2:hover{
+    color: red;
+}
+.icon3{
+    padding-top: 35px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 14px;
+}
+.icon3:hover{
+    color: red;
+}
+.icon4{
+    padding-top: 35px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 11px;
+}
+.icon4:hover{
+    color: red;
+}
+.icon5{
+    padding-top: 35px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 12px;
+}
+.icon5:hover{
+    color: red;
+}
+.icon6{
+    padding-top: 35px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 12px;
+}
+.icon6:hover{
+    color: red;
+}
+.section1{
+    height: 400px;
+    width: 100%;
+    background-color: blue;
+    margin-left: 50px;
+}
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+.content{
+    height: 1100px;
+    width: 100%;
+    background-color: black;
+}
+.box1{
+    height: 400px;
+    width: 100%;
+    background-image: url("wp14934596-mismatched-season-3-wallpapers.webp");
+    background-repeat: no-repeat;
+    border-radius: 1.5rem;
+    background-size: 1210px;
+    background: cover;
+    
+}
+
+.fa-solid fa-play{
+    margin-right: 10px;
+}
+.bot1{
+    background-color: white;
+    height: 40px;
+    width: 110px;
+    margin-left: 35px;
+    margin-top: 350px;
+    border-radius: 0.50rem;
+    font-size: 15px;
+
+}
+.bot2{
+    background-color: white;
+    height: 40px;
+    width: 110px;
+    margin-left: 35px;
+    margin-top: 30px;
+    border-radius: 0.50rem;
+    font-size: 15px;
+}
+.para3{
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.para4{
+    color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.container{
+    
+    margin: 100px 0 0 40px;
+    width: 1100px;
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 70px;
+    font-size: 8rem;
+    color: white;
+    
+    
+    
+}
+.photo1{
+   
+    background-image: url("Bhaskar.png");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+
+    
+}
+.photo2{
+    
+    background-image: url("amaran.jpeg");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.photo3{
+    background-color: aliceblue;
+    background-image: url("Vicky\ vidya.jpeg");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.photo4{
+    background-color: aliceblue;
+    background-image: url("carry\ on.jpeg");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.photo5{
+    background-color: aliceblue;
+    background-image: url("jigara.jpeg");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.photo6{
+    background-color: aliceblue;
+    background-image: url("thanglaan.jpeg");
+    width: 15%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transition: all ease-in-out 0.5s;
+}
+.photo1:hover{
+    width: 80%;
+}
+.photo2:hover{
+    width: 80%;
+}
+.photo3:hover{
+    width: 90%;
+}
+.photo4:hover{
+    width: 90%;
+}
+.photo5:hover{
+    width: 90%;
+}
+.photo6:hover{
+    width: 90%;
+}
+.one{
+    position: fixed;
+}
+
+

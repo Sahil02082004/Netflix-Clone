@@ -1,0 +1,447 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border:border-box;
+}
+
+.background{
+    background-image: url("Untitled\ design.png");
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background: cover;
+    z-index: -1;
+    
+}
+
+.content{
+    height:100px ;
+    width: 100%;
+    display: flex;
+    background: transparent;
+}
+
+.logo{
+    height: 100px;
+    width: 300px;
+    background-size: 160px;
+    color: red;
+    background-image: url("Netflix\ logo2.png");
+    margin-left: 150px;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.select-lang{
+    height:40px;
+    width: 135px;
+    margin-top: 25px;
+    margin-left: 400px;
+    text-align: center;
+    /*background: transparent;*/
+    background-color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+.sign{
+   
+    justify-content: center;
+    align-items: center;
+    margin-top: 26px;
+    height: 40px;
+    width: 100px;
+    margin-left: 30px;
+
+}
+.bot{
+    height: 40px;
+    width: 100px;
+    background-color: red;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.para{
+    margin-top: 80px;
+    margin-left: 350px;
+    color: white;
+    font-weight: 1000;
+    font-size: 50px;
+}
+.para1{
+    color: white;
+    margin-left: 460px;
+    font-size:20px ;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.para2{
+    color: white;
+    font-size:17px;
+    margin-left: 345px;
+    margin-top: 35px;
+}
+.op{
+    font-size: 20px;
+    font-weight: 500;
+}
+.op1{
+    background-color: black;
+}
+.op2{
+    background-color: black;
+}
+.op3{
+    background-color: black;
+}
+.op4{
+    background-color: black;
+}
+.content2{
+    height:100px ;
+    width: 100%;
+    display: flex;
+    background: transparent;
+}
+.search-input{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.search-input{
+    height: 43px;
+    width: 410px;
+    font-size: 15px;
+    text-align: center;
+}
+.get{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.bot2{
+    height: 50px;
+    width: 200px;
+    font-size: 22px;
+    color: white;
+    background-color: red;
+    font-weight: 700;
+}
+.background1{
+    height: 200px;
+    background-color: black;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    margin-top: 0px;
+    text-decoration: none;
+}
+.background2{
+    height: 170px;
+    background-color: red;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    padding-top: 9.8px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.Background3{
+    height: 300px;
+    background-color:black;
+    display: flex;
+    text-decoration: none;
+}
+.nav{
+    color: white;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.op{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+.nav2{
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 20px;
+    background: transparent;
+    color: white;
+    border-radius: 5%;
+    border-width: 2px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.nav3{
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    background: transparent;
+    color: white;
+    margin-left: 10px;
+    border-radius: 5%;
+    border-width: 2px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.bot3{
+    height: 120px;
+    width: 24px;
+    margin-left: 40px;
+    margin-left: 130px;
+    margin-top: 55px;
+    background-color:#FFFFFF1A;
+    color: white;
+
+}
+.box1{
+    height: 250px;
+    width: 184px;
+    background-color:white;
+    margin-left: 30px;
+    background-image: url("haseen\ .png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+.box2{
+    height: 250px;
+    width: 184px;
+    background-color:white;
+    margin-left: 45px;
+    background-image: url("maharaja.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    
+}
+.box3{
+    height: 250px;
+    width: 184px;
+    background-color: white;
+    margin-left: 45px;
+    background-image: url("indian2.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+.box4{
+    height: 250px;
+    width: 184px;
+    margin-left: 45px;
+    background-image: url("savi.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bot4{
+    height: 120px;
+    width: 24px;
+    margin-top: 55px;
+    margin-left: 30px;
+    background-color:#FFFFFF1A;
+    color: white;
+}
+.para3{
+    background-color:black;
+    height: 1100px;
+    width: 100%;
+}
+.nav4{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+}
+.more{
+    margin-left: 150px;
+    padding-top: 30px;
+    color: white;
+}
+.boxes{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.box5{
+    height: 360px;
+    width: 250px;
+    margin-left: 120px;
+    background-image: url("color1.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 5%;
+
+}
+.box6{
+    height: 360px;
+    width: 250px;
+    background-color:white;
+    margin-left: 10px;
+    border-radius: 5%;
+    background-image: url("color1.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.box7{
+    height: 360px;
+    width: 250px;
+    background-color:white;
+    margin-left: 10px;
+    border-radius: 5%;
+    background-image: url("color1.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.box8{
+    height: 360px;
+    width: 250px;
+    background-color:white;
+    margin-left: 10px;
+    border-radius: 5%;
+    background-image: url("color1.png");
+    background: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bo1{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.p1{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.bo2{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.p2{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.bo3{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.p3{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.bo4{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.p4{
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+}
+.p5{
+    color: white;
+    margin-left: 150px;
+    display:flex ;
+
+}
+.email2{
+    margin-left: 150px;
+    margin-top: 10px;    
+}
+.search-input1{
+    height: 45px;
+    width: 750px;
+    margin-left: 147px;
+    margin-top: 10px;
+    background-color: black;
+    font-size: 15px;
+    color: white;
+
+
+}
+.content5{
+    height: 100px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+}
+.bot5{
+    height: 53px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 7px;
+    color:white;
+    background-color: red;
+    font-size: 25px;
+}
+.email1{
+    color: white;
+    background-color:transparent;
+}
+.content6{
+    height: 50px;
+    width: 100%;
+    background-color:black;
+}
+.p6{
+    color:gray;
+    margin-left: 165px;
+}
+.content7{
+    height: 130px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+}
+.p7{
+    margin-left: 165px;
+    line-height: 25px;
+    text-decoration: underline;
+    color: white;
+}
+.p8{
+    margin-left:100px;
+    line-height: 25px;
+    color: white;
+    text-decoration: underline;
+}
+.p9{
+    margin-left: 100px;
+    line-height: 25px;
+    text-decoration: underline;
+    color: white;
+
+}
+.p10{
+    margin-left: 100px;
+    line-height: 25px;
+    text-decoration: underline;
+    color: white;
+}
+.content8{
+    height: 60px;
+    width: 100%;
+    background-color:black;
+}
+.select-lang1{
+    margin-left: 165px;
+    height: 35px;
+    width: 130px;
+    text-align: center;
+    font-size:15px ;
+    margin-top: 20px;
+    background: transparent;
+    color: white;
+}
+.p11{
+    color:grey;
+    margin-left: 165px;
+    margin-top: 40px;
+    font-size: 15px;
+}
